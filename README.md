@@ -55,6 +55,9 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
   </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
 </p>
 <!--
 **HalisBay/HalisBay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
