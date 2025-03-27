@@ -1,9 +1,5 @@
 ## Hi there, I'm Halis👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HalisBay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalisBay&layout=compact&theme=radical)
-
-![Profile Views](https://profile-counter.glitch.me/HalisBay/count.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
